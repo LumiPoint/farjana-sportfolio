@@ -472,8 +472,11 @@ img{
   flex-wrap: wrap;
   gap: 10px;
   margin-top: 12px;
+  
 }
-
+.project p {
+  color: #9195a4;
+}
 
 .project-tags span {
   background: #121a2b;
